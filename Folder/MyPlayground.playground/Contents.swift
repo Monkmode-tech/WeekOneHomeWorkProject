@@ -1,9 +1,3 @@
-import UIKit
-
-// Answers
-
-var greeting = "Hello, playground"
-
 import Foundation
 
 // Q1. Create an array of 5 integers
